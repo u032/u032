@@ -1,0 +1,29 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+
+.buttons-class {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    margin: 5px;
+    height: 4ex;
+    width: 150px;
+    
+}
+
+.link {
+    color: white;
+}
+
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+a {
+    font-family: 'futura_ndmedium', sans-serif;
+    text-align: center;
+}
