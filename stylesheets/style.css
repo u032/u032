@@ -14,6 +14,7 @@ along with u032. If not, see https://www.gnu.org/licenses/. */
 
 .buttons-class {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
 }
 
