@@ -39,13 +39,14 @@ footer {
     margin-top: 4ex;
 }
 
-@media screen and (min-width:769px){
-    .top {
-        margin-top: 23ex;
-    }
+.top {
+    margin-top: 23ex;
 }
 
 @media screen and (max-device-width:480px){
+    .top {
+        margin-top: 4ex;
+    }
     footer {
         margin-top: 3.3ex;
     }
