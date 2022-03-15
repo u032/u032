@@ -29,24 +29,24 @@ along with u032. If not, see https://www.gnu.org/licenses/. */
     color: white;
 }
 
-.footer {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-}
-
 a {
     font-family: 'futura_ndmedium', sans-serif;
     text-align: center;
 }
 
 footer {
-    margin-top: 3ex;
+    margin-top: 4ex;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 @media screen and (max-device-width:480px){
     .top {
         margin-top: 15ex;
+    }
+    footer {
+        margin-top: 3.3ex;
     }
 }
