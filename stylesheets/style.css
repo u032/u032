@@ -36,10 +36,6 @@ a {
 
 footer {
     margin-top: 4ex;
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 100%;
 }
 
 @media screen and (max-device-width:480px){
