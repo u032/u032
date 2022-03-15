@@ -44,3 +44,9 @@ a {
 footer {
     margin-top: 3ex;
 }
+
+@media screen and (max-device-width:480px){
+    .top {
+        margin-top: 18ex;
+    }
+}
