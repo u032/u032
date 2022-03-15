@@ -44,7 +44,7 @@ footer {
 
 @media screen and (max-device-width:480px){
     .top {
-        margin-top: 15ex;
+        margin-top: 13ex;
     }
     footer {
         margin-top: 3.3ex;
