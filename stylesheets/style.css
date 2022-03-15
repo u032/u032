@@ -18,6 +18,10 @@ along with u032. If not, see https://www.gnu.org/licenses/. */
     justify-content: center;
 }
 
+.top {
+    margin-top:23ex;
+}
+
 .button {
     margin: 5px;
     height: 4ex;
